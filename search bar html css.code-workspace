@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../search bar html css"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chatbot"
+	}
+}
